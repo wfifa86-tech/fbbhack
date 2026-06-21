@@ -16,4 +16,4 @@ apt install python git -y
 pip install -r requirements.txt
 git clone https://github.com/username/project.git
 cd project
-python main.py
+python fb.py
